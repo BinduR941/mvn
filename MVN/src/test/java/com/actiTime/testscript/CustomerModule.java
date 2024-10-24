@@ -8,6 +8,7 @@ public class CustomerModule {
 	public void createCustomer()
 	{
 		Reporter.log("createCustomer", true);
+		Reporter.log("modification done",true);
 	}
 
 }
